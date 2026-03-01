@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lararaj.xyz/sitemap.xml
